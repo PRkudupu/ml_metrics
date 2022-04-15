@@ -1,0 +1,6 @@
+CUSTOMER CHURN
+  Important for growing business to evaluate
+  Percentage of customers that stopped using the companys product during a certain time frame.
+  
+  Ex:
+  if you start your quarter with 400 customers and end with 380, your churn rate is 5% because you lost 5% of your customers

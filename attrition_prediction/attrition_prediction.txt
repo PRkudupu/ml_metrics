@@ -1,0 +1,5 @@
+ATTRITION PREDICTION
+	Estimates the attrition risk for your employee populations in real-time, which is recalculated every time an employee submits feedback.
+	The aggregated , segment level view keeps the accuaracy of yor predictions
+	High while protecting individual employee identity
+	
